@@ -5,7 +5,7 @@
     Date Last Modified: October 2, 2024
 '''
 
-  import math 
+import math 
 
 def q1(): 
   #Write Assignment code here
